@@ -9,6 +9,6 @@
 ##### The task was made based on about 170 songs ( including 2 separated files for each song, one for vocals and other for music).
 #### c) Making the " Brain " of the task
 ##### The most important part in the task was the " readdata.py " class file which has most of our functions.
-### ii. User Manual for using the app
+## ii. User Manual for using the app
 #### a) select single song or 2 songs in menu bar
 #### b) at using single song no more steps needed, but using 2 song, you have some extra features such as the slider located in the upper part of the GUI to mix songs
